@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Greetings!
+I'm just another sapien doing the GitHub tutorial.
